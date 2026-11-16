@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 using Ninject;
-using Students.BusinessLogic;
+
 
 namespace Students.View
 {
